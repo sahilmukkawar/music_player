@@ -1,5 +1,5 @@
 
-# React JS Music Player | 🎧 
+# Advanced Music Player Application with React | 🎧 
 
 Hey,
 I created a unique and dynamic music player that is fully customizable and user-friendly. This advanced Music Player application built with React is perfect for kickstarting your learning journey for React JS beginners, and it makes an excellent addition to your resume.
