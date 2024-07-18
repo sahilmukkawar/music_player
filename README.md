@@ -2,36 +2,16 @@
 # React JS Music Player | 🎧 
 
 Hey,
-I created a beast unique and dynamic music player that is fully customizable and user friendly. This Advance Music Player Application with React is best to quick start you learning journey for React JS beginners, also you can add this react project to your resume.
+I created a unique and dynamic music player that is fully customizable and user-friendly. This advanced Music Player application built with React is perfect for kickstarting your learning journey for React JS beginners, and it makes an excellent addition to your resume.
 
-Here, This Music App contains all music player features to play audio/songs and also to change background video that gives a really good vibes and also the song avatar. 
-Watch Full Tutorial as this project is created from scratch, and this will really help you a lot!
+This Music App includes all essential music player features to play audio/songs and offers the ability to change the background video, creating a great ambiance along with the song avatar. Watch the full tutorial to see how this project was created from scratch—it's a valuable resource for anyone looking to enhance their React skills!
 
-
-
-
-[🔴 Youtube Tutorial Video](https://youtu.be/dALOX3sIfsk)
-
-[🔵 Live Project URL](https://t-musicplayer.netlify.app/)
-
-If you want any answers related this project, You can Join My New Discord Server!
-Welcome!
-
-[🟣 Join Discord Server](https://discord.gg/G5zDJbVpMx)
+Features:
+Play, pause, and navigate through songs.
+Display song details including title, artist, and avatar.
+Dynamic background changes using a random image API, enhancing the user experience with fresh visuals.
 
 
 
+[🔵 Live Project URL](https://music-player-sahil7.netlify.app/)
 
-## Screenshot
-
-![App Screenshot](https://i.ibb.co/MSGBwTR/Thumbnail-10-K.png)
-
-
-## 🚀 About Me
-Teenage Programmer - Developing unique projects and trying to make web development learning easy to freshy users in this field. Fast track your development career with me. Hope you'll love my creativity.
-
-
-[SUBSCRIBE YOUTUBE](https://www.youtube.com/channel/UCHpW7UyMQf0SXpdO0obb1ig)
-
-
-![App Screenshot](https://yt3.ggpht.com/oGB27ubPR1zD7eqatjSUZRnMqdr1WAV6g3wC39d-G0hFTIrkzq0FK5_Z9sgAGQsTHEzOOgSw=s88-c-k-c0x00ffffff-no-rj)
